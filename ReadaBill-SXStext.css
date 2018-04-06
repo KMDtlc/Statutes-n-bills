@@ -1,0 +1,62 @@
+mark {
+   background-color: yellow;
+}
+
+mark.secondary {
+   background-color: lightblue;
+}
+
+.callout {
+   padding: 0px 0px 5px 5px;
+   background-color: lightgray;
+   border: 0.5px solid black;
+}
+
+.callout h6 {
+   padding: 0px;
+   text-align: center;
+   font-weight: bold;
+   background-color: darkblue;
+   color: white;
+}
+.card, .callout {
+   margin-bottom: 1rem;
+}
+
+.title-ex, .subtitle-ex, .text-ex {
+  font-family: "Courier New", Courier;
+  font-size: 1rem;
+}
+
+.text-ex p {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.card-text {
+   padding-left: 20px;
+}
+
+.added {
+  text-decoration: underline;
+}
+
+.deleted {
+  text-decoration: line-through;
+}
+
+.indent1 {
+   padding-left: 2rem;
+}
+
+.indent2 {
+   padding-left: 4rem;
+}
+
+.indent3 {
+   padding-left: 6rem;
+}
+
+.indent4 {
+   padding-left: 8rem;
+}
